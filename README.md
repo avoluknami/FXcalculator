@@ -1,5 +1,8 @@
 there is a video of testing the calculator
 file:///Users/user/Dropbox/Скриншоты/Screen%20Recording%202024-10-20%20at%2013.47.39%20copy.mov
+
+
+
 2+
 ![image](https://github.com/user-attachments/assets/535a81d7-04a6-4a6e-a466-8064db0247ba)
 6 =
